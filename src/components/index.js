@@ -1,0 +1,6 @@
+export { default as Header } from './header/header'
+export { default as Categories } from './categories/categories'
+export { default as Dishes } from './dishes/dishes'
+export { default as SearchHistory } from './searchhistory/searchhistory'
+export { default as TextInput} from './textinput/textinput'
+export { default as DropDown } from './dropdown/dropdown'
